@@ -32,7 +32,7 @@ weight = 40
 description = "The startup network"
 facebook = "https://facebook.com"
 github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
+logo = "/images/aircrft-logo-clean.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
