@@ -2,7 +2,7 @@
 author = "Jonathan Janssens"
 date = 2019-11-03T00:00:00Z
 description = "Giving credit to the images used in the demo"
-feature_image = "/images/DE433E9D-413F-40D9-8990-40DE28958EF1.png"
+feature_image = "/images/hugo.png"
 summary = "Thank you to the authors of these images used in this theme demo"
 title = "Aircrft Post 1"
 
