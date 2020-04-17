@@ -1,11 +1,12 @@
 +++
-title = "Aircrft Post 1"
-description = "Giving credit to the images used in the demo"
-summary = "Thank you to the authors of these images used in this theme demo"
-date = "2019-11-03"
 author = "Jonathan Janssens"
-+++
+date = 2019-11-03T00:00:00Z
+description = "Giving credit to the images used in the demo"
+feature_image = "/images/hugo.png"
+summary = "Thank you to the authors of these images used in this theme demo"
+title = "Aircrft Post 1"
 
++++
 All images are from [Unsplash](https://unsplash.com).
 
 ![Fight for freedom stand with Hong Kong sticker](/images/claudio-schwarz-purzlbaum-tRDWFrkRMyU-unsplash.jpg)
