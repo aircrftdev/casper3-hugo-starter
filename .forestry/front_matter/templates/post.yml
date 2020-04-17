@@ -24,4 +24,5 @@ fields:
   name: feature_image
   label: feature_image
 pages:
+- content/post/aircrft-post-3.md
 - content/post/post-1-4-14-2020.md
