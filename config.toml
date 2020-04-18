@@ -15,8 +15,8 @@ url = "https://aircrft.com"
 weight = 4
 [[menu.main]]
 identifier = "github-repo-theme"
-name = "Get Theme on Github"
-url = "https://github.com/jonathanjanssens/hugo-casper3"
+name = "Platform"
+url = "https://aircrft.com"
 weight = 3
 [[menu.main]]
 identifier = "image-credit"
