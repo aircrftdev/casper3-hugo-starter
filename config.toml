@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Chai Forest"
 baseURL = "https://aircrft.com"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020 Aircrft, Chai Forest all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
