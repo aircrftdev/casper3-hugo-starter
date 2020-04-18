@@ -4,7 +4,7 @@ author = "Chai Forest"
 baseURL = ""
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 =======
-baseURL = "https://aircrft.com"
+baseURL = ""
 copyright = "Copyright © 2020 Aircrft, Chai Forest all rights reserved."
 >>>>>>> 81f439d25a2b6c362c6e0d201abfbdad9fc0f8f8
 enableInlineShortcodes = true
