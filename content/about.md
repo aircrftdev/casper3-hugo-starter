@@ -1,8 +1,8 @@
 +++
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["", "about-us", "about-hugo", "contact"]
 author = "Aircrft"
-date = 2019-02-28T00:00:00Z
-description = "Hugo, the world’s fastest framework for building websites"
+date = 2020-04-17T07:00:00Z
+description = "Aircrft, the startup network. Startups helping startups."
 feature_image = "/images/hugo.png"
 title = "About"
 
