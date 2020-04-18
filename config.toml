@@ -1,7 +1,12 @@
 DefaultContentLanguage = "en"
 author = "Chai Forest"
+<<<<<<< HEAD
 baseURL = ""
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+=======
+baseURL = "https://aircrft.com"
+copyright = "Copyright © 2020 Aircrft, Chai Forest all rights reserved."
+>>>>>>> 81f439d25a2b6c362c6e0d201abfbdad9fc0f8f8
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
@@ -9,25 +14,25 @@ paginate = 3
 theme = "casper3"
 title = "Aircrft"
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
+identifier = "author"
+name = "Author Homepage"
+url = "https://aircrft.com"
+weight = 4
+[[menu.main]]
+identifier = "github-repo-theme"
+name = "Platform"
+url = "https://aircrft.com"
+weight = 3
 [[menu.main]]
 identifier = "image-credit"
 name = "Image Credit"
 url = "/image-credit/"
-weight = 20
+weight = 2
 [[menu.main]]
-identifier = "github-repo-theme"
-name = "Get Theme on Github"
-url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://aircrftflightpath.com"
-weight = 40
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
 [params]
 description = "The startup network"
 facebook = "https://facebook.com"
