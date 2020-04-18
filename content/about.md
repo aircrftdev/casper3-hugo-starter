@@ -3,7 +3,7 @@ aliases = ["", "about-us", "about-hugo", "contact"]
 author = "Aircrft"
 date = 2020-04-17T07:00:00Z
 description = "Aircrft, the startup network. Startups helping startups."
-feature_image = "/images/hugo.png"
+feature_image = "/images/aircrft-logo-clean.png"
 title = "About"
 
 +++
